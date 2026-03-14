@@ -1,45 +1,50 @@
-# Striver's DSA Sheet – Revision Repository
+# 🚀 Striver DSA Sheet – Revision
 
-This repository contains my solutions while revising problems from **Striver's DSA Sheet (A2Z / SDE Sheet)**.  
-The main objective of this repository is to **strengthen problem-solving skills, revise important DSA concepts, and maintain a structured record of practice.**
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Practice-blue)
+![Language](https://img.shields.io/badge/Language-C++-orange)
+![Status](https://img.shields.io/badge/Progress-In%20Progress-yellow)
+![Repository](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 
----
+This repository contains my solutions while **revising problems from Striver's DSA Sheet (A2Z / SDE Sheet)**.
 
-## 📌 About
-
-Striver’s DSA Sheet is a well-known curated list of Data Structures and Algorithms problems designed to prepare students for **technical interviews and competitive programming**.
-
-This repository is created for:
-
-- Revising important **DSA problems and patterns**
-- Improving **coding efficiency**
-- Practicing **interview-level questions**
-- Maintaining a **consistent revision routine**
+The goal of this repository is to strengthen **problem-solving skills**, revise **core DSA concepts**, and maintain a **structured record of coding practice**.
 
 ---
 
+# 📌 About Striver's DSA Sheet
 
-Each solution typically includes:
+Striver's DSA Sheet is a curated list of important **Data Structures and Algorithms problems** designed to help students prepare for:
 
-- Problem name
+- Software Engineering Interviews
+- Coding Rounds
+- Competitive Programming
+- Core DSA Understanding
+
+Created by **Striver (Raj Vikramaditya)**.
+
+---
+
+
+Each solution generally contains:
+
+- Problem description
 - Approach / explanation
 - Time complexity
 - Space complexity
-- Clean and optimized implementation
+- Optimized implementation
 
 ---
 
-## 🧠 Topics Covered
-
-The repository covers problems from the following DSA topics:
+# 🧠 Topics Covered
 
 - Arrays
 - Strings
 - Linked Lists
-- Stack and Queue
-- Recursion and Backtracking
+- Stack
+- Queue
+- Recursion & Backtracking
 - Binary Search
-- Trees and Binary Trees
+- Trees
 - Binary Search Trees
 - Graphs
 - Dynamic Programming
@@ -48,48 +53,62 @@ The repository covers problems from the following DSA topics:
 
 ---
 
-## ⚙️ Programming Language
+# ⚙️ Language Used
 
-Most solutions are implemented in:
+Primary language used in this repository:
 
-- **C++**
+**C++**
 
-Additional implementations in other languages may be added in the future.
+Future updates may include implementations in:
+
+- Python
+- Java
 
 ---
 
-## 🎯 Objective
+# 📊 Progress Tracker
+
+| Topic | Progress |
+|------|--------|
+| Arrays | ⬜⬜⬜⬜⬜ |
+| Strings | ⬜⬜⬜⬜⬜ |
+| Linked List | ⬜⬜⬜⬜⬜ |
+| Stack & Queue | ⬜⬜⬜⬜⬜ |
+| Binary Search | ⬜⬜⬜⬜⬜ |
+| Trees | ⬜⬜⬜⬜⬜ |
+| Graphs | ⬜⬜⬜⬜⬜ |
+| Dynamic Programming | ⬜⬜⬜⬜⬜ |
+
+*(Will update as I progress)*
+
+---
+
+# 🎯 Goals
 
 - Revise important **DSA patterns**
-- Improve **problem-solving speed**
+- Improve **coding speed and accuracy**
 - Prepare for **technical interviews**
-- Build a strong **DSA foundation**
+- Strengthen **problem-solving ability**
 
 ---
 
-## 📚 Reference
+# 📚 Reference
 
-Problems are based on **Striver’s DSA Sheet / A2Z DSA Course** by **Striver (Raj Vikramaditya)**.
+Problems are based on:
 
----
+**Striver's A2Z DSA Sheet**
 
-## 📊 Progress
-
-| Topic | Status |
-|------|------|
-| Arrays | In Progress |
-| Strings | In Progress |
-| Linked List | Pending |
-| Trees | Pending |
-| Graphs | Pending |
-| Dynamic Programming | Pending |
+Instructor: **Striver (Raj Vikramadity)**
+Learner :  **Majid Tamboli**
 
 ---
 
-## ⭐ Note
+# ⭐ Support
 
-This repository is primarily created for **personal revision and learning purposes**.
-
-If you find this helpful, feel free to **star the repository**.
+If you find this repository helpful, consider **starring ⭐ the repository**.
 
 ---
+
+# 📌 Note
+
+This repository is created mainly for **personal learning and revision purposes**.
