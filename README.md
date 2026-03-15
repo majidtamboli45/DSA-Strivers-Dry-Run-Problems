@@ -100,6 +100,7 @@ Problems are based on:
 
 Instructor: **Striver (Raj Vikramadity)**
 Learner :  **Majid Tamboli**
+**VPKBIET,BARAMATI**
 
 ---
 
